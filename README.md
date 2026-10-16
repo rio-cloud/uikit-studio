@@ -6,6 +6,8 @@ UIKIT Studio turns ideas into interactive React interfaces built with RIO UIKIT.
 
 Learn more on the [UIKIT Studio landing page](https://rio.cloud/en/landingpage/uikit-studio).
 
+Download the [latest released version](https://github.com/rio-cloud/uikit-studio/releases/latest).
+
 ## From idea to handoff
 
 1. **Describe** the audience, purpose, and interactions you have in mind. Use Plan mode to shape and approve a plan first, or choose Direct mode to start building immediately.
