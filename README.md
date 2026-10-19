@@ -1,12 +1,12 @@
 # UIKIT Studio
 
-![UIKIT Studio](uikit-studio.png)
-
 UIKIT Studio turns ideas into interactive React interfaces built with RIO UIKIT. Describe what you want to build in natural language, explore the generated result in a live preview, and refine it with your team.
 
 Learn more on the [UIKIT Studio landing page](https://rio.cloud/en/landingpage/uikit-studio).
 
 Download the [latest released version](https://github.com/rio-cloud/uikit-studio/releases/latest).
+
+![UIKIT Studio](uikit-studio.png)
 
 ## From idea to handoff
 
