@@ -6,7 +6,7 @@ Learn more on the [UIKIT Studio landing page](https://rio.cloud/en/landingpage/u
 
 Download the [latest released version](https://github.com/rio-cloud/uikit-studio/releases/latest).
 
-![UIKIT Studio](uikit-studio.png)
+![UIKIT Studio](uikit-studio.webp)
 
 ## From idea to handoff
 
